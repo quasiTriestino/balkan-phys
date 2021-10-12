@@ -1,0 +1,3 @@
+#+TITLE: BPC scripts
+
+This repository contains code that was used to automate some of the emailing and confirmations sent to BPC participants. Google scripts uses javascript and can be accessed by going to Tools > Script Editor.
